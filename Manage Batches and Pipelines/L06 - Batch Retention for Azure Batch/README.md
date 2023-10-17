@@ -1,5 +1,5 @@
 # DP-203: Processing in Azure Using Batch Solutions
 
-## L27 - Introducing Delta Lake with Azure Databricks - Part 2
+## L06 - Configure Batch Retention for Azure Batch
 
-Sample files are available at https://github.com/pluralsight-cloud/DP-203-Processing-in-Azure-Using-Batch-Solutions/tree/main/SampleDataFiles
+Command and sample utility is available with lesson "Demo: Processing Data with Azure Batch", earlier in the section.
