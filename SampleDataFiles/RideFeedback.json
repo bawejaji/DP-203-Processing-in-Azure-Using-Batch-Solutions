@@ -1,0 +1,43 @@
+[
+	{
+		"RideId": 1,
+		"PickupLocationId": 234,
+		"Rating": 5,		
+		"Feedback": "I have been using Yellow Taxi Transfers for years. They are reliable, helpful and convivial. They go out of their way to help with organizing travel to and from the airport.I  strongly recommend them."
+	},
+	
+	{
+		"RideId": 2,
+		"PickupLocationId": 148,
+		"Rating": 3.5,
+		"Feedback": "Needs improvement. Cab was not in good shape. Seats were messy."
+	},
+	
+	{
+		"RideId": 3,
+		"PickupLocationId": 79,
+		"Rating": 4,
+		"Feedback": "It was good"
+	},
+	
+	{
+		"RideId": 4,
+		"PickupLocationId": 138,
+		"Rating": 1,
+		"Feedback": "Horrible to say the least. Poor attitude. Didn't complete the ride. Asked me to get down, and take another one."
+	},
+	
+	{
+		"RideId": 5,
+		"PickupLocationId": 233,
+		"Rating": 5,
+		"Feedback": "Great Service! On time, and very reliable even at odd hours"
+	},
+	
+	{
+		"RideId": 6,
+		"PickupLocationId": 100,
+		"Rating": 4.5,
+		"Feedback": "Cab reached very late. But driver was courteous, and still helped me reach on time to destination"
+	}
+]
